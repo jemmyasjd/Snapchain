@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\jemmy\\Downloads\\punjab hackathon\\full test\\full\\chat-app-react-nodejs\\public\\src\\contracts\\SnapChain.sol": {
+      "lastModificationDate": 1676144962268,
+      "contentHash": "0474559baa262d9ba128c90fe37e1902",
+      "sourceName": "src/contracts/SnapChain.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "ChatApp"
+      ]
+    }
+  }
+}
