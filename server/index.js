@@ -31,7 +31,6 @@ const server = app.listen(5000, () =>
 const io = socket(server, {
   cors: {
     origin: "https://snapchain-front.vercel.app",
-    methods: ["GET", "POST"],
     credentials: true,
   },
 });
